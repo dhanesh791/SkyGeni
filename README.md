@@ -27,7 +27,12 @@ python script_name.py
 - **Visualizations**: Generates different types of graphs and charts using `matplotlib`, `seaborn`, and `plotly`.
 - **Geospatial Analysis**: Uses `geopandas` and `geopy` to process and visualize geographical data.
 
-#### 5. Troubleshooting
+  
+#### 5. Screenshots & HTML Of interactive charts are given in seperate fodlers
+- Interactive charts might not show in .ipynb files on Git due to renering issues.
+- So, the html to interact with the produced charts and screenshots to view are given.
+
+#### 4. Troubleshooting
 - If you encounter missing packages, manually install them using:
   ```
   pip install package_name
